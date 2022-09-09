@@ -9,6 +9,4 @@ int main()
     printf("Area of circle is: %f",area);
 
     return(0);
-
-
 }
